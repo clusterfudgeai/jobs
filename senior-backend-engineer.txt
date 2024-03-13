@@ -10,13 +10,13 @@ About
     founding engineer you will be invited and expected to have opinions about
     the strategic direction of the company and products, as well as leading the
     development team from the front. A successful candidate will be willing to
-    learn new skills (Nvidia CUDA Cruft, python, golang, frontend framework du jour,
+    learn new skills (Nvidia CUDA Cruft, Python, Go, frontend framework du jour,
     automation etc), turning their hand to necessary tasks and working with
     complete autonomy.
 
 Technology
 
-    Services are primarily written in Golang with Python used for the research
+    Our application is primarily written in Go with Python used for the research
     heavy areas. The team has historically built microservices, but this time
     around we're backing a monolith to reduce complexity. Automation is paramount,
     we practice a strict continuous deployment policy. We embrace open source and
